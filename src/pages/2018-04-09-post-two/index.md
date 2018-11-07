@@ -1,7 +1,7 @@
 ---
 path: '/post-one'
 date: '2018-11-07'
-title: 'My First Blog Post'
+title: 'My Second Blog Post'
 author: 'Paul Walsh'
 ---
 
